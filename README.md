@@ -22,7 +22,7 @@
 
 ## Search
 
-- [*] Binary Search
+- [x] Binary Search
 - [ ] Linear Search
 - [ ] Ternary Search
 
