@@ -1,0 +1,21 @@
+{
+  "name": "structifysJavascript",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://github.com/Structifys\"><img src=\"img/logo.png\"></a>\r </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Structifys/structifysJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Structifys/structifysJavascript/issues"
+  },
+  "homepage": "https://github.com/Structifys/structifysJavascript#readme",
+  "dependencies": {}
+}
