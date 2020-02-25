@@ -11,7 +11,7 @@
 - [ ] List
 - [ ] Queue
 - [ ] Linked List (Single/Doubly) **In progrees**
-- [ ] Stack
+- [x] Stack
 - [ ] Hash Table (Set/Map)
 - [ ] Binary Search Tree (Set/Map)
 - [ ] Priority Queue
