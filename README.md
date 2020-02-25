@@ -23,13 +23,13 @@
 ## Search
 
 - [x] Binary Search
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Ternary Search
 
 ## Sorting
 
 - [ ] Bubble Sort
-- [ ] Selection Sort
+- [x] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
