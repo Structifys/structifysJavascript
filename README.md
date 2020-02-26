@@ -9,7 +9,7 @@
 # Data Structures
 
 - [ ] List
-- [ ] Queue
+- [x] Queue
 - [ ] Linked List (Single/Doubly) **In progrees**
 - [x] Stack
 - [ ] Hash Table (Set/Map)
