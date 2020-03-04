@@ -32,16 +32,16 @@ const indexOfMininum = (array, stardIndex) => {
   for (let i = stardIndex + 1; i <= array.length - 1; i++) {
     if (array[i] < minValue) {
       minValue = array[i];
-      minIndex = i
+      minIndex = i;
     }
   }
 
   return minIndex;
 };
 /**
- * 
+ *
  * @param {[]} array  the array that we going to iterate
- * 
+ *
  * @returns new array sorted
  */
 const SelectionSort = array => {
